@@ -1,0 +1,17 @@
+{
+    "name": "Ratio stable Token",
+    "symbol": "USDr",
+    "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/USDrbBQwQbQ2oWHUPfA8QBHcyVxKUq1xHyXsSLKdUq2/logo.png",
+    "chainId": 101,
+    "address": "USDrbBQwQbQ2oWHUPfA8QBHcyVxKUq1xHyXsSLKdUq2",
+    "decimals": 6,
+    "tags": [
+        "utility-token"
+    ],
+    "extensions": {
+        "telegram": "https://t.me/ratiofinance",
+        "twitter": "https://twitter.com/RatioFinance",
+        "website": "https://ratio.finance/",
+        "coingeckoId": "ratio-stable-coin"
+    }
+}
