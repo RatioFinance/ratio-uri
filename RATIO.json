@@ -1,7 +1,7 @@
 {
     "name": "Ratio Governance Token",
     "symbol": "RATIO",
-    "uri": "TOKEN_URI",
+    "uri": "https://github.com/RatioFinance/ratio-uri/blob/master/RATIO_URI.json",
     "sellerFeeBasisPoints": 0,
     "creators": null,
     "collection": null,

@@ -1,7 +1,7 @@
 {
     "name": "Ratio stable Token",
     "symbol": "USDr",
-    "uri": "TOKEN_URI",
+    "uri": "https://github.com/RatioFinance/ratio-uri/blob/master/USDr_URI.json",
     "sellerFeeBasisPoints": 0,
     "creators": null,
     "collection": null,
